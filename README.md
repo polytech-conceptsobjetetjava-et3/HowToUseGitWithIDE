@@ -71,7 +71,7 @@ Voici un petit tutoriel pour mettre en place un projet Github sur Eclipse. Je pr
 > ```
 > 
 > Vous pourriez avoir besoin d'entrer vos identifiants GitHub
-
+> 
 > <br><div align="center"><img src="images/step7bis.jpg"></img></div><br>
 
 8. Actualisez la page de votre répertoire GitHub
@@ -130,4 +130,6 @@ Voici un petit tutoriel pour mettre en place un projet Github sur Eclipse. Je pr
 
 > <br><div align="center"><img src="images/step14.jpg"></img></div><br>
 
-Pour plus d'informations
+___
+
+D'autres techniques, peuvent être utilisées (e.g. [OpenClassrooms](https://openclassrooms.com/fr/courses/6106191-installez-votre-environnement-de-developpement-java-avec-eclipse/6250116-utilisez-eclipse-pour-envoyer-des-corrections-sur-github)
