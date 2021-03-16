@@ -16,7 +16,7 @@ Voici un petit tutoriel pour mettre en place un projet Github sur Eclipse. Je pr
 
 > <br><div align="center"><img src="images/step2.jpg"></img></div><br>
 
-2bis. Ajoutez un nouveau répertoire
+2bis. Créez un nouveau répertoire
 
 > <br><div align="center"><img src="images/step2bis.jpg"></img></div><br>
 
