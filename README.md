@@ -10,7 +10,7 @@ Voici un petit tutoriel pour mettre en place un projet Github sur Eclipse. Je pr
 
 1. Connectez-vous à GitHub et rendez-vous sur la page de vos répertoires.
 
-<br><div align="center"><img src="images/step1.jpg" height="75px"></img></div><br>
+<br><div align="center"><img src="images/step1.jpg"></img></div><br>
 
 2. Ajoutez un nouveau répertoire
 
