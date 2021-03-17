@@ -177,9 +177,10 @@ Voici un petit tutoriel pour mettre en place un projet Github sur Eclipse. Je pr
 > echo "# TPNoteIHM" >> README.md
 > ```
 > 
-> <br><div align="center"><img src="images/intellij_step7.jpg"></img></div><br>
-> 
 > Cela devrait créer un fichier README.md
+> 
+> <div align="center"><img src="images/intellij_step7.jpg"></img></div><br>
+
 
 7bis. Entrez la deuxième commande indiquée sur la page de votre répertoire GitHub :
 
@@ -187,9 +188,9 @@ Voici un petit tutoriel pour mettre en place un projet Github sur Eclipse. Je pr
 > git init
 > ```
 > 
-> <br><div align="center"><img src="images/intellij_step7bis.jpg"></img></div><br>
-> 
 > Cela devrait créer un répertoire ".git"
+> 
+> <div align="center"><img src="images/intellij_step7bis.jpg"></img></div><br>
 
 7ter. Entrez les autres commandes indiquées sur la page de votre répertoire GitHub 
 
@@ -203,9 +204,9 @@ Voici un petit tutoriel pour mettre en place un projet Github sur Eclipse. Je pr
 > git push -u origin main
 > ```
 > 
-> <br><div align="center"><img src="images/intellij_step7ter.jpg"></img></div><br>
-> 
 > Vous pourriez avoir besoin d'entrer vos identifiants GitHub
+> 
+> <div align="center"><img src="images/intellij_step7ter.jpg"></img></div><br>
 
 8. Actualisez la page de votre répertoire GitHub
 
@@ -215,53 +216,60 @@ Voici un petit tutoriel pour mettre en place un projet Github sur Eclipse. Je pr
 
 > <br><div align="center"><img src="images/intellij_step8bis.jpg"></img></div><br>
 
-9. Dans Eclipse, faites un clic droit sur le projet et sélectionnez "Share Project ..."
+9. Dans le répertoire du projet, ajoutez un nouveau fichier texte
 
 > <br><div align="center"><img src="images/intellij_step9.jpg"></img></div><br>
 
-9bis. L'IDE devrait automatiquement reconnaître le répertoire .git, vous pouvez donc valider
+9bis. Renommez ce fichier en ".gitignore"
 
 > <br><div align="center"><img src="images/intellij_step9bis.jpg"></img></div><br>
 
-9ter. Vous devriez voir apparaître le nom du répertoire GitHub ainsi que la branche (master)
+9ter. Ajoutez-y le répertoire de compilation (bonne pratique : on évite au maximum de mettre du code compilé sur une plateforme de versioning ;))
 
 > <br><div align="center"><img src="images/intellij_step9ter.jpg"></img></div><br>
-
-10. Ouvrez le fichier .gitignore
-
-> <br><div align="center"><img src="images/intellij_step10.jpg"></img></div><br>
-
-10bis. Assurez-vous que le répertoire de compilation y figure (bonne pratique : on évite au maximum de mettre du code compilé sur une plateforme de versioning ;))
-
-> <br><div align="center"><img src="images/intellij_step10bis.jpg"></img></div><br>
-
-11. Créez les éléments de votre projet sur Eclipse (ici, une classe)
+10. Créez les éléments de votre projet sur Eclipse (ici, une classe)
 
 > <br><div align="center"><img src="images/intellij_step11.jpg"></img></div><br>
 
-12. "Commitez" votre projet (clic droit -> Team -> Commit)
+10bis. Ajoutez du contenu à votre classe
+
+> <br><div align="center"><img src="images/intellij_step10bis.jpg"></img></div><br>
+
+11. L'IDE devrait automatiquement reconnaître le répertoire .git. "Commitez" votre projet (clic droit -> Git -> Commit Directory ...)
 
 > Vous utiliserez principalement deux commandes :
 > - Commit & Push, pour envoyer vos éléments vers le répertoire GitHub
 > - Pull pour mettre à jour la version du projet se trouvant sur votre ordinateur
 > 
-> <br><div align="center"><img src="images/intellij_step12.jpg"></img></div><br>
+> <br><div align="center"><img src="images/intellij_step11.jpg" ></img></div><br>
 
-13. Déplacez les éléments à "commiter" depuis "Unstaged changes" jusque "Staged changes"
+11bis. Selectionnez les changements à "commiter", ajoutez un message de "commit" explicite et cliquez sur "Commit and Push ..."
 
-> <br><div align="center"><img src="images/intellij_step13.jpg" ></img></div><br>
+> <br><div align="center"><img src="images/intellij_step11bis.jpg" ></img></div><br>
 
-13bis. Entrez un message pour votre commit, puis "poussez" vos changements vers votre répertoire GitHub en cliquant sur "Commit and Push ..."
+11ter. Une fenêtre de preview s'ouvrira. Vous pouvez alors valider l'envoi en cliquant sur "Push"
+
+> <br><div align="center"><img src="images/intellij_step11ter.jpg" ></img></div><br>
+
+12. Une fenêtre vous demandant d'entrer vos identifiants pourrait s'ouvrir, cliquez alors sur "Log In iia Github ..."
+
+> <br><div align="center"><img src="images/intellij_step12.jpg" ></img></div><br>
+
+12bis. Vous serez alors redirigés vers une page web. Cliquez sur "Authorize in Github"
+
+> <br><div align="center"><img src="images/intellij_step12bis.jpg"></img></div><br>
+
+12ter. Puis, validez l'autorisation en cliquant sur "Authorize JetBrains"
+
+> <br><div align="center"><img src="images/intellij_step12ter.jpg"></img></div><br>
+
+13. Actualisez la page de votre répertoire GithubEn
+
+> <br><div align="center"><img src="images/intellij_step13.jpg"></img></div><br>
+
+13bis. Vous devriez trouver votre projet :trophy: :trophy: :trophy:
 
 > <br><div align="center"><img src="images/intellij_step13bis.jpg"></img></div><br>
-
-13ter. Vous pouvez fermer la fenêtre informative qui s'affiche
-
-> <br><div align="center"><img src="images/intellij_step13ter.jpg"></img></div><br>
-
-14. En actualisant la page de votre répertoire, vous devriez trouver votre projet :trophy: :trophy: :trophy:
-
-> <br><div align="center"><img src="images/intellij_step14.jpg"></img></div><br>
 
 ___
 
