@@ -225,7 +225,7 @@ Voici un petit tutoriel pour mettre en place un projet Github sur Eclipse. Je pr
 > <br><div align="center"><img src="images/intellij_step9ter.jpg"></img></div><br>
 10. Créez les éléments de votre projet sur Eclipse (ici, une classe)
 
-> <br><div align="center"><img src="images/intellij_step11.jpg"></img></div><br>
+> <br><div align="center"><img src="images/intellij_step10.jpg"></img></div><br>
 
 10bis. Ajoutez du contenu à votre classe
 
