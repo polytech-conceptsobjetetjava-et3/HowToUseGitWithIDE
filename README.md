@@ -149,17 +149,15 @@ Voici un petit tutoriel pour mettre en place un projet Github sur Eclipse. Je pr
 
 > <br><div align="center"><img src="images/intellij_step2ter.jpg"></img></div><br>
 
-3. Dans Eclipse, créez un nouveau projet Java
+3. Dans IntelliJ, créez un nouveau projet Java
 
 > <br><div align="center"><img src="images/intellij_step3.jpg"></img></div><br>
+> <br><div align="center"><img src="images/intellij_step3bis.jpg"></img></div><br>
+> <br><div align="center"><img src="images/intellij_step3ter.jpg"></img></div><br>
 
 3bis. Nommez-le et validez
 
-> <br><div align="center"><img src="images/intellij_step3bis.jpg"></img></div><br>
-
-3ter. Ne créez pas de module
-
-> <br><div align="center"><img src="images/intellij_step3ter.jpg"></img></div><br>
+> <br><div align="center"><img src="images/intellij_step3quater.jpg"></img></div><br>
 
 4. Ouvrez le nouveau projet dans l'explorateur Système
 
@@ -179,25 +177,35 @@ Voici un petit tutoriel pour mettre en place un projet Github sur Eclipse. Je pr
 > echo "# TPNoteIHM" >> README.md
 > ```
 > 
-> Cela devrait créer un fichier README.md
-> 
 > <br><div align="center"><img src="images/intellij_step7.jpg"></img></div><br>
+> 
+> Cela devrait créer un fichier README.md
 
-7bis. Entrez les autres commandes indiquées sur la page de votre répertoire GitHub 
+7bis. Entrez la deuxième commande indiquée sur la page de votre répertoire GitHub :
+
+> ```
+> git init
+> ```
+> 
+> <br><div align="center"><img src="images/intellij_step7bis.jpg"></img></div><br>
+> 
+> Cela devrait créer un répertoire ".git"
+
+7ter. Entrez les autres commandes indiquées sur la page de votre répertoire GitHub 
 
 > Dans mon cas :
 > 
 > ```
-> git init
 > git add README.md
 > git commit -m "first commit"
+> git branch -M main
 > git remote add origin https://github.com/EugenieBrasier/TPNoteIHM.git
-> git push -u origin master
+> git push -u origin main
 > ```
 > 
-> Vous pourriez avoir besoin d'entrer vos identifiants GitHub
+> <br><div align="center"><img src="images/intellij_step7ter.jpg"></img></div><br>
 > 
-> <br><div align="center"><img src="images/intellij_step7bis.jpg"></img></div><br>
+> Vous pourriez avoir besoin d'entrer vos identifiants GitHub
 
 8. Actualisez la page de votre répertoire GitHub
 
