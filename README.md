@@ -208,13 +208,9 @@ Voici un petit tutoriel pour mettre en place un projet Github sur Eclipse. Je pr
 > 
 > <div align="center"><img src="images/intellij_step7ter.jpg"></img></div><br>
 
-8. Actualisez la page de votre répertoire GitHub
+8. Actualisez la page de votre répertoire GitHub. Vous devriez voir votre fichier README.md apparaître
 
 > <br><div align="center"><img src="images/intellij_step8.jpg"></img></div><br>
-
-8bis. Vous devriez voir votre fichier README.md apparaître
-
-> <br><div align="center"><img src="images/intellij_step8bis.jpg"></img></div><br>
 
 9. Dans le répertoire du projet, ajoutez un nouveau fichier texte
 
