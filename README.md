@@ -227,9 +227,13 @@ Voici un petit tutoriel pour mettre en place un projet Github sur Eclipse. Je pr
 
 > <br><div align="center"><img src="images/intellij_step10.jpg"></img></div><br>
 
-10bis. Ajoutez du contenu à votre classe
+10bis. Nommez-la et validez
 
 > <br><div align="center"><img src="images/intellij_step10bis.jpg"></img></div><br>
+
+10ter. Ajoutez du contenu à votre classe
+
+> <br><div align="center"><img src="images/intellij_step10ter.jpg"></img></div><br>
 
 11. L'IDE devrait automatiquement reconnaître le répertoire .git. "Commitez" votre projet (clic droit -> Git -> Commit Directory ...)
 
