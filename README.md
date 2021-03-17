@@ -251,7 +251,7 @@ Voici un petit tutoriel pour mettre en place un projet Github sur Eclipse. Je pr
 
 > <br><div align="center"><img src="images/intellij_step11ter.jpg" ></img></div><br>
 
-12. Une fenêtre vous demandant d'entrer vos identifiants pourrait s'ouvrir, cliquez alors sur "Log In iia Github ..."
+12. Une fenêtre vous demandant d'entrer vos identifiants pourrait s'ouvrir, cliquez alors sur "Log In in Github ..."
 
 > <br><div align="center"><img src="images/intellij_step12.jpg" ></img></div><br>
 
@@ -263,14 +263,10 @@ Voici un petit tutoriel pour mettre en place un projet Github sur Eclipse. Je pr
 
 > <br><div align="center"><img src="images/intellij_step12ter.jpg"></img></div><br>
 
-13. Actualisez la page de votre répertoire GithubEn
+13. Actualisez la page de votre répertoire Github. Vous devriez trouver votre projet :trophy: :trophy: :trophy:
 
 > <br><div align="center"><img src="images/intellij_step13.jpg"></img></div><br>
 
-13bis. Vous devriez trouver votre projet :trophy: :trophy: :trophy:
-
-> <br><div align="center"><img src="images/intellij_step13bis.jpg"></img></div><br>
-
 ___
 
-D'autres techniques, peuvent être utilisées (e.g. [OpenClassrooms](https://openclassrooms.com/fr/courses/6106191-installez-votre-environnement-de-developpement-java-avec-eclipse/6250116-utilisez-eclipse-pour-envoyer-des-corrections-sur-github)
+D'autres techniques, peuvent être utilisées (e.g. [Eclipse](https://openclassrooms.com/fr/courses/6106191-installez-votre-environnement-de-developpement-java-avec-eclipse/6250116-utilisez-eclipse-pour-envoyer-des-corrections-sur-github), [IntelliJ](https://www.jetbrains.com/help/idea/set-up-a-git-repository.html#put-existing-project-under-Git))
